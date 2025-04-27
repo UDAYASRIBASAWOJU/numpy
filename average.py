@@ -1,7 +1,7 @@
 import numpy as np
 
-pyth=[3,4,5,6,9]
-print(pyth)
+pyt=[3,4,5,6,9]
+print(pyt)
 
 temp=np.array([32,45,23,45])
 print(temp)
